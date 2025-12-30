@@ -36,7 +36,7 @@ const App: React.FC = () => {
         title: 'Vieux Port de La Rochelle',
         medium: 'Soft pastel',
         year: '2024',
-        description: ''
+        description: 'sunset'
       },
       {
         id: '4',
