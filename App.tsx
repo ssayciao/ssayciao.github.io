@@ -48,7 +48,7 @@ const App: React.FC = () => {
       },
       {
         id: '2',
-        url: '/artwork/8.jpg',
+        url: '/artwork/image8.jpg',
         title: 'Aoiike, Japan',
         medium: 'Soft pastel',
         year: '2024',
