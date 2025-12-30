@@ -72,7 +72,7 @@ const App: React.FC = () => {
       {
         id: '1',
         url: '/animations/je_taime.mp4',
-        title: 'A lpve poem',
+        title: 'A love poem',
         medium: 'Digital Animation',
         year: '2024',
         description: ''
