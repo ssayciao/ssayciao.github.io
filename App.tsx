@@ -36,7 +36,7 @@ const App: React.FC = () => {
         title: 'Vieux Port de La Rochelle',
         medium: 'Soft pastel',
         year: '2024',
-        description: 'sunset'
+        description: 'Soft pastel hues capture a serene harbor scene featuring fortified stone towers and sailboats silhouetted against a vibrant pink and orange sunset.'
       },
       {
         id: '4',
@@ -44,7 +44,7 @@ const App: React.FC = () => {
         title: 'Stairways in Montmartre, Paris',
         medium: 'Soft pastel',
         year: '2024',
-        description: ''
+        description: 'Framed by lush foliage, this vertical landscape depicts figures ascending a steep city staircase lined with a classic street lamp and overlooking a distant skyline.'
       },
       {
         id: '2',
@@ -52,7 +52,7 @@ const App: React.FC = () => {
         title: 'Aoiike, Japan',
         medium: 'Soft pastel',
         year: '2024',
-        description: ''
+        description: 'This tranquil nature scene features a shimmering turquoise body of water dotted with vertical wooden posts and surrounded by soft, lush greenery.'
       },
       {
         id: '6',
@@ -60,7 +60,7 @@ const App: React.FC = () => {
         title: 'Paris 6e Arr. ',
         medium: 'Oil pastel',
         year: '2025',
-        description: ''
+        description: 'Rendered in vibrant, textured strokes, this artwork portrays a charming row of European storefronts, featuring a bright yellow facade and a blue bookstore entrance.'
       },
     ],
 
@@ -72,10 +72,10 @@ const App: React.FC = () => {
       {
         id: '1',
         url: '/animations/je_taime.mp4',
-        title: 'A love poem',
+        title: 'A Love Poem',
         medium: 'Digital Animation',
         year: '2024',
-        description: ''
+        description: 'Audio by @mandymillealheure'
       },
       {
         id: '2',
