@@ -62,6 +62,14 @@ const App: React.FC = () => {
         year: '2025',
         description: 'Rendered in vibrant, textured strokes, this artwork portrays a charming row of European storefronts, featuring a bright yellow facade and a blue bookstore entrance.'
       },
+      {
+        id: '8',
+        url: '/artwork/image9.png',
+        title: 'Collection of Nagoya and Yokohama ',
+        medium: 'Digital art',
+        year: '2023',
+        description: 'This work captures the timeless splendor of cherry blossoms blanketing the streets of Japan. From the soft pink haze Nagoya to the scenic avenues of Yokohama, the drifting petals weave a vivid springtime dream, echoing the fleeting yet brilliant poetry of life.'
+      },
     ],
 
     // 5. ANIMATIONS: Add your video animations here.
