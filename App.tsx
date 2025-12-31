@@ -64,7 +64,7 @@ const App: React.FC = () => {
       },
       {
         id: '8',
-        url: '/artwork/image9.png',
+        url: '/artwork/image11.png',
         title: 'Collection of Nagoya and Yokohama ',
         medium: 'Digital art',
         year: '2023',
