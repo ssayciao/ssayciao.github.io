@@ -68,7 +68,7 @@ const App: React.FC = () => {
         title: 'The Sakura Suite - Nagoya & Yokohama ',
         medium: 'Digital art',
         year: '2023',
-        description: 'This set of works captures the splendor of cherry blossoms blanketing the streets of Japan, the drifting petals weave a springtime dream, echoing the poetry of life.'
+        description: 'This set of works captures the splendor of cherry blossoms blanketing the streets of Japan; the drifting petals weave a springtime dream, echoing the poetry of life.'
       },
     ],
 
