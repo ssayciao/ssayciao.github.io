@@ -68,7 +68,7 @@ const App: React.FC = () => {
         title: 'Collection of Nagoya and Yokohama ',
         medium: 'Digital art',
         year: '2023',
-        description: 'This work captures the timeless splendor of cherry blossoms blanketing the streets of Japan. From the soft pink haze Nagoya to the scenic avenues of Yokohama, the drifting petals weave a vivid springtime dream, echoing the fleeting yet brilliant poetry of life.'
+        description: 'This work captures the timeless splendor of cherry blossoms blanketing the streets of Japan, the drifting petals weave a springtime dream, echoing the poetry of life.'
       },
     ],
 
