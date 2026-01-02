@@ -44,7 +44,7 @@ const App: React.FC = () => {
         title: 'Stairways in Montmartre, Paris',
         medium: 'Soft pastel',
         year: '2024',
-        description: 'Framed by lush foliage, this vertical landscape depicts a staircase from Montmartre:the classic street lamps, the iconic graffiti walls, and offers a stunning view of the distant Paris skyline.'
+        description: 'Framed by lush foliage, this vertical landscape depicts a staircase from Montmartre : the classic street lamps, the iconic graffiti walls, and offers a stunning view of the distant Paris skyline.'
       },
       {
         id: '2',
@@ -91,7 +91,7 @@ const App: React.FC = () => {
         title: 'La Rochelle',
         medium: 'Digital Animation',
         year: '2024',
-        description: ''
+        description: 'First Prize Winner in the Video Competition, 2024, organized by the Bureau Français de Taipei'
       }
     ]
   };
