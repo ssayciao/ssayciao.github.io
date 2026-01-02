@@ -36,7 +36,7 @@ const App: React.FC = () => {
         title: 'Vieux Port de La Rochelle',
         medium: 'Soft pastel',
         year: '2024',
-        description: 'Soft pastel hues capture a serene harbor scene featuring fortified stone towers and sailboats silhouetted against a vibrant pink and orange sunset.'
+        description: 'In 2024, the artist embarked on a 35-day solo journey to France, drawing inspiration from the picturesque landscapes of La Rochelle, Nantes, and Paris. This experience culminated in a captivating series of pastel artworks that reflect this enchanting period. In this work, the soft pastel hues depict a harbor scene featuring fortified stone towers and sailboats silhouetted against a vibrant pink and orange sunset.'
       },
       {
         id: '4',
@@ -44,7 +44,7 @@ const App: React.FC = () => {
         title: 'Stairways in Montmartre, Paris',
         medium: 'Soft pastel',
         year: '2024',
-        description: 'Framed by lush foliage, this vertical landscape depicts figures ascending a steep city staircase lined with a classic street lamp and overlooking a distant skyline.'
+        description: 'Framed by lush foliage, this vertical landscape depicts a staircase from Montmartre:the classic street lamps, the iconic graffiti walls, and offers a stunning view of the distant Paris skyline.'
       },
       {
         id: '2',
@@ -52,23 +52,23 @@ const App: React.FC = () => {
         title: 'Aoiike, Japan',
         medium: 'Soft pastel',
         year: '2024',
-        description: 'This tranquil nature scene features a shimmering turquoise body of water dotted with vertical wooden posts and surrounded by soft, lush greenery.'
+        description: 'In summer 2024, artist had a brief visit in Biei, Hokkaido. This tranquil nature scene of the iconic lake Aoiike features a shimmering turquoise body of water and surrounded by soft, lush greenery.'
       },
       {
         id: '6',
         url: '/artwork/image6.jpg',
-        title: 'Paris 6e Arr. ',
+        title: 'Paris 6e Arr.',
         medium: 'Oil pastel',
         year: '2025',
-        description: 'Rendered in vibrant, textured strokes, this artwork portrays a charming row of European storefronts, featuring a bright yellow facade and a blue bookstore entrance.'
+        description: 'Rendered in vibrant, textured strokes, artist uses vigorous brushwork of oil pastel to portray a charming row of Parisien storefronts.'
       },
       {
         id: '8',
         url: '/artwork/image11.png',
-        title: 'The Sakura Suite - Nagoya & Yokohama ',
+        title: 'The Sakura Suite',
         medium: 'Digital art',
         year: '2023',
-        description: 'This set of works captures the splendor of cherry blossoms blanketing the streets of Japan; the drifting petals weave a springtime dream, echoing the poetry of life.'
+        description: 'This set of works captures the splendor of cherry blossoms blanketing the streets of Nagoya and Yokohama. The drifting petals weave a springtime dream of Japan, echoing the poetry of life.'
       },
     ],
 
