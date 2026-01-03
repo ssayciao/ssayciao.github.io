@@ -47,6 +47,14 @@ const App: React.FC = () => {
         description: 'Framed by lush foliage, this vertical landscape depicts a staircase from Montmartre : the classic street lamps, the iconic graffiti walls, and offers a stunning view of the distant Paris skyline.'
       },
       {
+        id: '9',
+        url: '/artwork/image12.jpg',
+        title: 'Musée Dobrée, Nantes',
+        medium: 'Soft pastel',
+        year: '2024',
+        description: 'Artist visited numerous art museums during her stay in France. This drawing captures a sunny autumn day outside the Musée Dobrée in Nantes, highlighting the vibrant colors of the sun-drenched brick wall.'
+      },
+      {
         id: '2',
         url: '/artwork/image8.jpeg',
         title: 'Aoiike, Japan',
